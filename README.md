@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/AlbertoYules">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=3000&pause=1000&color=ffffff&background=0096c7&center=true&vCenter=true&width=800&height=180&lines=Alberto+Yules;Ciberseguridad+%26+IA;Hacking+%C3%89tico+%7C+Malware+Analysis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=3000&pause=1000&color=ffffff&background=0096c7&center=true&vCenter=true&width=800&height=180&lines=Alberto+Yules;Ciberseguridad+%26+IA;Hacking+%C3%89etico+%7C+Malware+Analysis" alt="Typing SVG" />
   </a>
 </div>
 
