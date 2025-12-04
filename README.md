@@ -7,7 +7,11 @@
   </a>
 </div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=250&section=header&text=Alberto%20Yules&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Ciberseguridad%20%26%20IA&descSize=20&fontAlignY=35&descAlignY=60)
+<div align="center">
+  <a href="https://github.com/AlbertoYules">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=3000&pause=1000&color=ffffff&background=0096c7&center=true&vCenter=true&width=800&height=180&lines=Alberto+Yules;Ciberseguridad+%26+IA;Hacking+%C3%89tico+%7C+Malware+Analysis" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <h3>Estudiante de Ciberseguridad e Inteligencia Artificial</h3>
