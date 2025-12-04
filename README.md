@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="./github-header-banner.png" alt="Banner Alberto Yules" width="100%"/>
+  <img src="./github-header-banner.jpeg" alt="Banner Alberto Yules" width="100%"/>
 </div>
 
 <div align="center">
